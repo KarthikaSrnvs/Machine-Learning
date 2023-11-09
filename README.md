@@ -1,1 +1,1 @@
-# Machine-Learning
+# Homophily-driven community detection on attributed networks
